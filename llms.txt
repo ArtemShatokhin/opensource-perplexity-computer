@@ -1,0 +1,16 @@
+# Open Source Perplexity Computer Alternatives
+
+> An honest, source-cited comparison of open-source and self-hostable alternatives to Perplexity Computer (OpenClaw, Kortix/Suna, Eigent, Vellum, AnythingLLM, Lobehub), by licence, self-hosting, model choice and isolation.
+
+## Pages
+- [Overview](https://opensourceperplexitycomputer.com/): what "open source Perplexity Computer alternative" means and the short comparison table.
+- [Alternatives compared](https://opensourceperplexitycomputer.com/alternatives.html): eight options with a licence/self-host/model/isolation matrix.
+- [Self-hosting guide](https://opensourceperplexitycomputer.com/self-hosting.html): what it takes to run an open alternative on your own hardware.
+- [What Perplexity Computer is](https://opensourceperplexitycomputer.com/perplexity-computer-review.html): architecture, cost and limits of the closed product.
+- [FAQ](https://opensourceperplexitycomputer.com/faq.html): licence, self-hosting and local-run questions.
+
+## Key facts
+- Perplexity Computer: closed, cloud-only, requires Perplexity Max ($200/month); orchestrates ~19 models in an isolated Linux sandbox.
+- OpenClaw: MIT, runs on your own computer, model-agnostic, no paid tier.
+- Kortix (Suna): source-available (Elastic 2.0), self-hostable, any model, change-request review.
+- Eigent: Apache 2.0, self-hostable multi-agent workstation.
