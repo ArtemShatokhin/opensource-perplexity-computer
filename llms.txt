@@ -4,9 +4,9 @@
 
 ## Pages
 - [Overview](https://opensourceperplexitycomputer.com/): what "open source Perplexity Computer alternative" means and the short comparison table.
-- [Alternatives compared](https://opensourceperplexitycomputer.com/alternatives.html): nine options with a licence/self-host/model/isolation matrix.
-- [Self-hosting guide](https://opensourceperplexitycomputer.com/self-hosting.html): what it takes to run an open alternative on your own hardware.
-- [What Perplexity Computer is](https://opensourceperplexitycomputer.com/perplexity-computer-review.html): architecture, cost and limits of the closed product.
+- [Alternatives compared](https://opensourceperplexitycomputer.com/alternatives.html): nine options — open source and closed — with a licence/self-host/model/isolation matrix.
+- [Self-hosting guide](https://opensourceperplexitycomputer.com/self-hosting.html): what it takes to run an open source alternative on your own hardware.
+- [What Perplexity Computer is](https://opensourceperplexitycomputer.com/perplexity-computer-review.html): architecture, cost and limits of the closed product, and the open source alternative.
 - [FAQ](https://opensourceperplexitycomputer.com/faq.html): licence, self-hosting and local-run questions.
 
 ## Key facts
