@@ -1,8 +1,3 @@
-/* openperplexity — compiled satellite stylesheet.
-   base.css + archetypes/landing.css + themes/signal.css + site layer.
-   Do not hand-edit: recompile from the site kit. */
-
-
 /* ============================================================
    Site kit — base.css (structure only)
    Components + layout primitives shared by every satellite. It carries
@@ -619,7 +614,24 @@ h1, h2, h3, .hero h1, .section-head h2 { font-family: var(--font-display); }
   .brand .tld { display: none; }
 }
 
-
+/* ---- Mobile menu (no JS): <details class="nav-menu"> in .nav-actions ----
+   Hidden on desktop; below 900px .nav-links hide and this takes over.
+   Put EVERY primary nav link and the CTA inside .nav-menu-panel. */
+.nav-menu { display: none; position: relative; }
+.nav-menu > summary { list-style: none; cursor: pointer; display: grid; place-items: center;
+  width: 40px; height: 40px; border: 1px solid var(--hairline); border-radius: var(--radius-sm);
+  color: var(--ink); background: var(--surface); }
+.nav-menu > summary::-webkit-details-marker { display: none; }
+.nav-menu-panel { position: absolute; right: 0; top: calc(100% + 8px); min-width: 240px;
+  display: grid; gap: 2px; padding: var(--space-2); background: var(--surface);
+  border: 1px solid var(--hairline); border-radius: var(--radius); box-shadow: var(--shadow-lg);
+  z-index: 50; }
+.nav-menu-panel a:not(.btn) { display: block; padding: 10px 12px; border-radius: var(--radius-sm);
+  color: var(--ink); text-decoration: none; }
+.nav-menu-panel a:not(.btn):hover { background: var(--hover); }
+.nav-menu-panel .btn { margin-top: var(--space-2); justify-content: center; text-align: center; }
+@media (max-width: 900px) { .nav-menu { display: block; } }
+@media (max-width: 560px) { .nav-actions > .btn { display: none; } }
 /* ============================================================
    Archetype: landing
    Product-style landing: centred statement hero with a product visual
@@ -663,8 +675,6 @@ h1, h2, h3, .hero h1, .section-head h2 { font-family: var(--font-display); }
 @media (max-width: 560px) { .features, .how { grid-template-columns: 1fr; } .hero { padding-top: var(--space-16); } }
 
 .hero-visual { text-align: left; }
-
-
 /* ============================================================
    Theme: signal
    High-contrast light: bright white, heavy black type, thick rules, offset
@@ -699,7 +709,8 @@ h1, .hero h1 { font-weight: 800; letter-spacing: -0.03em; }
 .btn-primary { background: var(--signal); color: #ffffff; }
 pre, pre code { color: #f5f5f4; }
 
-
+/* inline code sits on the dark code background too: keep it readable */
+:not(pre) > code { background: var(--code-bg); color: #f5f5f4; border-color: var(--code-bg); padding: 0.1em 0.4em; border-radius: var(--radius-sm); }
 /* ============================================================
    openperplexity — site layer (site-specific identity)
    Compiled last: base.css -> archetypes/landing.css -> themes/signal.css
