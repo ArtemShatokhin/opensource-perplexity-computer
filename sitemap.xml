@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://opensourceperplexitycomputer.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://opensourceperplexitycomputer.com/alternatives.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://opensourceperplexitycomputer.com/self-hosting.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://opensourceperplexitycomputer.com/perplexity-computer-review.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://opensourceperplexitycomputer.com/faq.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/</loc><lastmod>2026-09-28</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/alternatives.html</loc><lastmod>2026-09-28</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/kortix-vs-perplexity-computer.html</loc><lastmod>2026-09-28</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/perplexity-computer-pricing.html</loc><lastmod>2026-09-28</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/self-hosting.html</loc><lastmod>2026-09-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/perplexity-computer-review.html</loc><lastmod>2026-09-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/faq.html</loc><lastmod>2026-09-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/index.md</loc><lastmod>2026-09-28</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/alternatives.md</loc><lastmod>2026-09-28</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/kortix-vs-perplexity-computer.md</loc><lastmod>2026-09-28</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/perplexity-computer-pricing.md</loc><lastmod>2026-09-28</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/self-hosting.md</loc><lastmod>2026-09-28</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/perplexity-computer-review.md</loc><lastmod>2026-09-28</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://opensourceperplexitycomputer.com/faq.md</loc><lastmod>2026-09-28</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
 </urlset>
