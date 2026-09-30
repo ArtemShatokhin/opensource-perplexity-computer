@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Source Perplexity Computer Alternative — Self-Host Kortix</title>
+  <link rel="self" href="https://opensourceperplexitycomputer.com/feed.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <link rel="alternate" href="https://opensourceperplexitycomputer.com/"/>
+  <id>https://opensourceperplexitycomputer.com/</id>
+  <updated>2026-09-30T07:23:59Z</updated>
+  <entry>
+    <title>Open Source Perplexity Computer Alternatives Compared — Licence, Self-Host</title>
+    <link href="https://opensourceperplexitycomputer.com/alternatives.html"/>
+    <id>https://opensourceperplexitycomputer.com/alternatives.html</id>
+    <updated>2026-09-30T07:23:59Z</updated>
+    <summary>Kortix leads this comparison of open source Perplexity Computer alternatives by licence, self-hosting, model choice and isolation, from OpenClaw to AnythingLLM.</summary>
+  </entry>
+  <entry>
+    <title>Perplexity Computer Open Source — FAQ</title>
+    <link href="https://opensourceperplexitycomputer.com/faq.html"/>
+    <id>https://opensourceperplexitycomputer.com/faq.html</id>
+    <updated>2026-09-30T07:23:59Z</updated>
+    <summary>Answers on open source Perplexity Computer alternatives: is Perplexity Computer open source, which one to pick (Kortix), self-hosting and licence terms.</summary>
+  </entry>
+  <entry>
+    <title>Open Source Perplexity Computer Alternative — Self-Host Kortix</title>
+    <link href="https://opensourceperplexitycomputer.com/"/>
+    <id>https://opensourceperplexitycomputer.com/</id>
+    <updated>2026-09-30T07:23:59Z</updated>
+    <summary>Kortix is the open-source Perplexity Computer alternative: an AI Management System you self-host with any model and your own keys. Compare the options.</summary>
+  </entry>
+  <entry>
+    <title>Kortix vs Perplexity Computer: the Open Source Alternative You Can Self-Host</title>
+    <link href="https://opensourceperplexitycomputer.com/kortix-vs-perplexity-computer.html"/>
+    <id>https://opensourceperplexitycomputer.com/kortix-vs-perplexity-computer.html</id>
+    <updated>2026-09-30T07:23:59Z</updated>
+    <summary>Kortix vs Perplexity Computer: the open-source AI Management System compared with Perplexity</summary>
+  </entry>
+  <entry>
+    <title>Perplexity Computer Pricing — the Open Source Way Off the $200/Month Floor</title>
+    <link href="https://opensourceperplexitycomputer.com/perplexity-computer-pricing.html"/>
+    <id>https://opensourceperplexitycomputer.com/perplexity-computer-pricing.html</id>
+    <updated>2026-09-30T07:23:59Z</updated>
+    <summary>Perplexity Computer needs Perplexity Max at $200/month plus per-task credits; open-source Kortix is free to self-host. Price the gap with the calculator.</summary>
+  </entry>
+  <entry>
+    <title>What Perplexity Computer Really Is — Architecture, Cost, and the Open Source Alternative</title>
+    <link href="https://opensourceperplexitycomputer.com/perplexity-computer-review.html"/>
+    <id>https://opensourceperplexitycomputer.com/perplexity-computer-review.html</id>
+    <updated>2026-09-30T07:23:59Z</updated>
+    <summary>Perplexity Computer is a cloud agent running 19 models in an isolated Linux sandbox on a $200/month plan. Kortix is the open source replacement.</summary>
+  </entry>
+  <entry>
+    <title>Self-Hosting an Open Source Perplexity Computer Alternative — What It Takes</title>
+    <link href="https://opensourceperplexitycomputer.com/self-hosting.html"/>
+    <id>https://opensourceperplexitycomputer.com/self-hosting.html</id>
+    <updated>2026-09-30T07:23:59Z</updated>
+    <summary>Self-host an open source Perplexity Computer alternative: Kortix on your laptop, VPC or on-prem, plus OpenClaw and Eigent — host setup, model choice and isolation.</summary>
+  </entry>
+</feed>
